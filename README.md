@@ -14,7 +14,8 @@ Optional:
 
 ## Technos
 
-- Front-end: React or Vue.js or Angular
-- Back-end/network analysis: Python or we split Back-end and network analysis in two different services ?
-- Database: (SQL or NoSQL ?)
+- Front-end: React or Vue.js or Angular ??
+- Back-end / API : Node + Express ??
+- network analysis: Python ??
+- Database: (SQL or NoSQL ?) ??
 
