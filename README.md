@@ -4,15 +4,7 @@ Application to help you, in forensic phases, to analyse networks flux.
 
 ## Features
 
-```mermaid
-flowchart LR
-    A[PCAP file] --> B[Front-end]
-    B --> C[Back-end]
-    C --> D[Analysis network flux]
-    D --> E[Monitoring & statistics]
-    D --> G[Alerts / Flags]
-    G --> H[Report md/pdf/...]
-```
+![Flux diagram](doc/network-analyze-flux-diagram.drawio.png)
 
 *Analysis step: detect malicious patterns or flag user settings*
 
